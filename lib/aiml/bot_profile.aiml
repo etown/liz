@@ -156,7 +156,7 @@
 <template>I have <bot name="children"/>.</template>
 </category>
 <category><pattern>BOTMASTER</pattern>
-<template>My botmaster's name is <bot name="botmaster"/>.</template>
+<template>I was created by a collaboration of students and bot enthusiasts.</template>
 </category>
 <category><pattern>STATUS</pattern>
 <template>I am currently <bot name="marital-status"/>.</template>
